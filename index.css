@@ -16,6 +16,8 @@ body {
   height: 150px;
   border-radius: 50%;
   object-fit: cover;
+
+  margin-top: 10vh;
   margin-bottom: 20px;
 }
 
